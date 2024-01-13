@@ -6,5 +6,6 @@
 		<AssemblyName>WpfCustomFileDialog</AssemblyName>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 		<UseWPF>true</UseWPF>
+		<LangVersion>latest</LangVersion>
 	</PropertyGroup>
 </Project>
